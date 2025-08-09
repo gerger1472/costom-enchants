@@ -1,1 +1,1 @@
-rootProject.name = "customenchants_final"
+rootProject.name = "customenchants_complete"
